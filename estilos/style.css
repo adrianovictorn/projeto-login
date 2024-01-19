@@ -33,7 +33,7 @@ main{
     transform: translate(-50%,-50%);
     color: black;
     background-color: white;
-    width: 250px;
+    width: 350px;
     height: 500px;
     border-radius: 20px;
     overflow: hidden;
@@ -55,7 +55,7 @@ main{
 #imagem{
     display: block;
     background-image: url(../imagens/fundo-login.jpg);
-    height: 200px;
+    height: 300px;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
