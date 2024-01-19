@@ -104,8 +104,9 @@ form > input[type=submit]:hover{
     border: 0px;
     border-radius: 8px;
     padding: 4px;
-    transform: translateY(-9px);
+
     border: 1px solid #612723;
+    transform: translateY(-10px);
 
 
 }
